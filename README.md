@@ -106,6 +106,8 @@ Design, build, and maintain secure cloud infrastructure, Kubernetes platforms, C
 <a href="https://nuhibrahim.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
+---
+
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
