@@ -272,12 +272,17 @@ Experienced in developing end-to-end MLOps workflows using **MLflow, DVC, and Fe
 
 # 📜 Certifications
 
-- ✅ Microsoft Certified: Azure Fundamentals (AZ-900)
+- ✅ 100 Days of AWS in kodekloud
 - ✅ AWS Certified Cloud Practitioner
 - ✅ Google IT Support Professional Certificate
 - ✅ Google Cybersecurity Professional Certificate
-- ✅ Fortinet Certified Associate (FCA)
-- ✅ KodeKloud DevOps Learning Path
+- ✅ Fortinet Certified NSE 1, 2, 3
+- ✅ 100 Days of DevOps in kodekloud
+- ✅ Kubernetes in kodekloud
+- ✅ Docker in kodekloud
+- ✅ DevOps Mastery In Coursera
+- ✅ Linux Essentials: 010 in LPI
+  
 
 ---
 
