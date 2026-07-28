@@ -8,6 +8,9 @@ Building secure, scalable cloud infrastructure and automating CI/CD pipelines fo
 <p align="center">
 <a href="https://github.com/cigeke?tab=followers"><img src="https://img.shields.io/github/followers/cigeke?label=Followers&style=for-the-badge"/></a>
 <a href="https://github.com/cigeke"><img src="https://img.shields.io/github/stars/cigeke?affiliations=OWNER&style=for-the-badge"/></a>
+  <a href="https://github.com/cigeke">
+<img src="https://komarev.com/ghpvc/?username=cigeke&label=Profile%20Views&color=0891b2&style=for-the-badge"/>
+</a>
 </p>
 
 ---
@@ -16,8 +19,9 @@ Building secure, scalable cloud infrastructure and automating CI/CD pipelines fo
 
 DevOps and Cloud Infrastructure Engineer specializing in Infrastructure as Code, container orchestration, and CI/CD automation. Experienced in designing highly available cloud platforms on AWS and Azure, deploying Kubernetes workloads, and building production-ready MLOps pipelines. Focused on reliability, security, and automation at every layer of the stack.
 
-**Currently exploring:** GitOps (Argo CD), advanced Kubernetes patterns, and AI infrastructure.
-**Open to collaborating on:** [BadbaadoLink](https://github.com/cigeke/BadbaadoLink) — an open-source phishing detection platform.
+🌱 Currently exploring: GitOps (Argo CD), advanced Kubernetes patterns, and AI infrastructure.
+
+🤝 Open to collaborating on: [BadbaadoLink](https://github.com/cigeke/BadbaadoLink) — an open-source phishing detection platform.
 
 ---
 
@@ -32,7 +36,6 @@ DevOps and Cloud Infrastructure Engineer specializing in Infrastructure as Code,
 | **MLOps** | MLflow · DVC · Feast |
 | **DevSecOps & Security** | HashiCorp Vault · IAM · Nmap · Wireshark · Burp Suite |
 | **Operating Systems** | Linux (Administration & Hardening) |
-| **Databases** | PostgreSQL · MySQL · MariaDB |
 | **Languages** | Python · Bash |
 | **Collaboration** | Git · Jira · Slack · Microsoft Teams |
 
@@ -47,10 +50,10 @@ DevOps and Cloud Infrastructure Engineer specializing in Infrastructure as Code,
 | Project | Description | Tech Stack |
 |---|---|---|
 | **[BadbaadoLink](https://github.com/cigeke/BadbaadoLink)** | Open-source phishing detection platform for identifying malicious websites | Python · Flask · Docker |
-| **End-to-End MLOps Pipeline** | Production-ready ML pipeline covering experiment tracking, versioning, and deployment | MLflow · DVC · Feast · Docker · Kubernetes · Terraform |
+| **[Linux Server Health Monitor](https://github.com/cigeke/Linux-Server-Health-Monitor)** | Bash-based monitoring solution that automatically checks CPU, memory, disk usage, uptime, and system health with scheduled reporting. | Bash · Linux · Cron · Monitoring |
 | **Kubernetes Production Deployments** | Deployment configurations with Ingress, Helm charts, ConfigMaps, Secrets, and monitoring | Kubernetes · Helm |
 | **Azure Infrastructure Automation** | Infrastructure as Code for provisioning and managing Azure resources | Terraform · ARM Templates · Azure CLI |
-| **Dockerized CI/CD Pipelines** | Automated build, test, and deployment pipelines | Docker · Jenkins · GitHub Actions · Kubernetes |
+| **[My Docker App](https://github.com/cigeke/my-docker-app)** | Containerized application demonstrating Docker image creation, container management, and deployment best practices. | Docker · Dockerfile · Docker Compose |
 | **DevSecOps Labs** | Hands-on security hardening and secrets management exercises | HashiCorp Vault · Linux Hardening · Container Security |
 
 ---
@@ -101,4 +104,16 @@ Design, build, and maintain secure cloud infrastructure, Kubernetes platforms, C
 <a href="https://www.linkedin.com/in/nuh-ali-ibrahim-73001823a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:nuhali939@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://nuhibrahim.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cigeke/cigeke/output/github-snake.svg" alt="GitHub Snake" />
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
