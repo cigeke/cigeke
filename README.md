@@ -54,7 +54,7 @@ DevOps and Cloud Infrastructure Engineer specializing in Infrastructure as Code,
 | **Kubernetes Production Deployments** | Deployment configurations with Ingress, Helm charts, ConfigMaps, Secrets, and monitoring | Kubernetes · Helm |
 | **Azure Infrastructure Automation** | Infrastructure as Code for provisioning and managing Azure resources | Terraform · ARM Templates · Azure CLI |
 | **[My Docker App](https://github.com/cigeke/my-docker-app)** | Containerized application demonstrating Docker image creation, container management, and deployment best practices. | Docker · Dockerfile · Docker Compose |
-| **[DevSecOps-lab ] https://github.com/cigeke/DevSecOps-Lab** | Hands-on security hardening and secrets management exercises | HashiCorp Vault · Linux Hardening · Container Security |
+| **[DevSecOps-lab ](https://github.com/cigeke/DevSecOps-Lab)** | Hands-on security hardening and secrets management exercises | HashiCorp Vault · Linux Hardening · Container Security |
 
 ---
 
