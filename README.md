@@ -1,5 +1,5 @@
 <h1 align="center">Nuh Ali Ibrahim</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure | Kubernetes | MLOps</h3>
+<h3 align="center">DevSecOps Engineer | Cloud Infrastructure | Kubernetes | MLOps</h3>
 
 <p align="center">
 Building secure, scalable cloud infrastructure and automating CI/CD pipelines for production-grade systems.
@@ -17,7 +17,10 @@ Building secure, scalable cloud infrastructure and automating CI/CD pipelines fo
 
 ## About Me
 
-DevOps and Cloud Infrastructure Engineer specializing in Infrastructure as Code, container orchestration, and CI/CD automation. Experienced in designing highly available cloud platforms on AWS and Azure, deploying Kubernetes workloads, and building production-ready MLOps pipelines. Focused on reliability, security, and automation at every layer of the stack.
+**DevSecOps version:**
+
+DevSecOps and Cloud Infrastructure Engineer specializing in secure Infrastructure as Code, container orchestration, CI/CD automation, and cloud security. Experienced in designing highly available platforms on AWS and Azure, deploying Kubernetes workloads, integrating security throughout the development lifecycle, and building production-ready MLOps pipelines. Focused on security, reliability, automation, and continuous improvement at every layer of the stack.
+
 
 🌱 Currently exploring: GitOps (Argo CD), advanced Kubernetes patterns, and AI infrastructure.
 
