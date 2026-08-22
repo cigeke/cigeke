@@ -54,7 +54,7 @@ DevSecOps and Cloud Infrastructure Engineer specializing in secure Infrastructur
 |---|---|---|
 | **[BadbaadoLink](https://github.com/cigeke/BadbaadoLink)** | Open-source phishing detection platform for identifying malicious websites | Python · Flask · Docker |
 | **[Linux Server Health Monitor](https://github.com/cigeke/Linux-Server-Health-Monitor)** | Bash-based monitoring solution that automatically checks CPU, memory, disk usage, uptime, and system health with scheduled reporting. | Bash · Linux · Cron · Monitoring |
-| **Kubernetes Production Deployments** | Deployment configurations with Ingress, Helm charts, ConfigMaps, Secrets, and monitoring | Kubernetes · Helm |
+| **[Kubernetes Production Deployments](https://github.com/cigeke/kubernetes-production-deployment)** | Production-ready Flask API deployed on Kubernetes with rolling updates, health probes, HPA, PodDisruptionBudget, Ingress, resource limits, and Network Policies |
 | **Azure Infrastructure Automation** | Infrastructure as Code for provisioning and managing Azure resources | Terraform · ARM Templates · Azure CLI |
 | **[My Docker App](https://github.com/cigeke/my-docker-app)** | Containerized application demonstrating Docker image creation, container management, and deployment best practices. | Docker · Dockerfile · Docker Compose |
 | **[DevSecOps-lab ](https://github.com/cigeke/DevSecOps-Lab)** | Hands-on security hardening and secrets management exercises | HashiCorp Vault · Linux Hardening · Container Security |
