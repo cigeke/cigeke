@@ -1,5 +1,5 @@
 <h1 align="center">Nuh Ali Ibrahim</h1>
-<h3 align="center">DevSecOps Engineer | Cloud Infrastructure | Kubernetes | MLOps</h3>
+<h3 align="center">DevOps Engineer @Logitech </h3>
 
 <p align="center">
 Building secure, scalable cloud infrastructure and automating CI/CD pipelines for production-grade systems.
